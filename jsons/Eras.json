@@ -458,7 +458,7 @@
     {
         "name": "Beyond the Future",
         "researchAgreementCost": 450,
-        "startingSettlerCount": 3,
+        "startingSettlerCount": 1,
         "startingWorkerCount": 3,
         "startingMilitaryUnitCount": 5,
         "startingMilitaryUnit": "Mechanized Infantry",
