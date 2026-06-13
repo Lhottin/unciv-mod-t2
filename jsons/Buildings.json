@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 100,
+		"science": 100,
+		"gold": 100,
+		"culture": 100,
+		"cityStrength": 50,
+		"requiredTech": "Wonder Tech",
+		"cost": 1,
+		"uniques": [
+			"Indicates the capital city",
+			"New [Military] units start with [1500] XP [in this city]"]
+	},
+	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
