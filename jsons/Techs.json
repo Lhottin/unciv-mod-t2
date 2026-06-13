@@ -1,0 +1,15 @@
+[
+	{
+		"columnNumber": 1,
+		"era": "Ancient Era",
+		"techCost": 0,
+		"buildingCost": 0,
+		"wonderCost": 0,
+		"techs": [
+			{
+				"name": "Wonder Tech",
+				"row": 1,
+				"prerequisites": [				],
+				"quote": "'Ig it(s a good start' - me"
+		}
+]
