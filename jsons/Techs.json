@@ -1,7 +1,7 @@
 [
 	{
-		"columnNumber": 1,
-		"era": "Tier 0 Era",
+		"columnNumber": 2,
+		"era": "Ancient Era",
 		"techCost": 0,
 		"buildingCost": 0,
 		"wonderCost": 0,
@@ -10,7 +10,7 @@
 				"name": "Wonder Tech",
 				"row": 1,
 				"prerequisites": [
-					
+					"Agriculture"
 				],
 				"quote": "'Ig it(s a good start' - me"
 			}
