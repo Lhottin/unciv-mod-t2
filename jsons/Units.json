@@ -619,6 +619,9 @@
 			"Unable to capture cities",
 			"Never appears as a Barbarian unit"
 		],
+		"promotions": [
+			"Hovering"
+		],
 		"attackSound": "machinegun",
 		"civilopediaText": [
 			{
