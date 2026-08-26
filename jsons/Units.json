@@ -454,6 +454,22 @@
 		"attackSound": "bombing"
 	},
 	{
+		"name": "Rebmob",
+		"unitType": "Bomber",
+		"replaces": "Bomber",
+		"uniqueTo": "Upside-Down",
+		"upgradesTo": "Stealth Bomber",
+		"movement": 1,
+		"strength": 70,
+		"rangedStrength": 70,
+		"range": 10,
+		"cost": 375,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"promotions": ["Evasion", "Siege I"],
+		"attackSound": "bombing"
+	},
+	{
 		"name": "Paratrooper",
 		"unitType": "Gunpowder",
 		"movement": 2,
