@@ -493,7 +493,7 @@
 		"cost": 375,
 		"requiredTech": "Electronics",
 		"obsoleteTech": "Clean Energy",
-		"upgradesTo": "Land Carrier"
+		"upgradesTo": "Orbital Carrier"
 		"uniques": [
 			"Cyber",
 			"[+33]% Strength <vs [Ranged] units>",
