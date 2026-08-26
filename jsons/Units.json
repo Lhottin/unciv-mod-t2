@@ -493,6 +493,7 @@
 		"cost": 375,
 		"requiredTech": "Electronics",
 		"obsoleteTech": "Clean Energy",
+		"upgradesTo": "Land Carrier"
 		"uniques": [
 			"Cyber",
 			"[+33]% Strength <vs [Ranged] units>",
@@ -1092,7 +1093,8 @@
 		],
 		"promotions": [
 			"In Orbit",
-			"Amphibious"
+			"Amphibious",
+			"Hovering"
 		],
 		"attackSound": "energyshot"
 	},
