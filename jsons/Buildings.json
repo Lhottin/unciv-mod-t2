@@ -1763,7 +1763,7 @@
 		"culture": 100,
 		"cityStrength": 50,
 		"requiredTech": "Wonder Tech",
-		"cost": 1,
+		"cost": 100000,
 		"uniques": [
 			"Indicates the capital city",
 			"New [Military] units start with [1500] XP [in this city]"]
