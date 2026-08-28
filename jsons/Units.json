@@ -1150,6 +1150,7 @@
 			"All tiles cost 1 movement",
 			"Ignores Zone of Control",
 			"Can carry [2] [Aircraft] units",
+			"Can carry [3] [Missile] units",
 			"[100]% chance to intercept air attacks",
 			"[+25]% Strength <vs [Air] units>",
 			"Never appears as a Barbarian unit"
