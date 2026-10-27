@@ -2307,7 +2307,7 @@
 		"culture": 3,
 		"greatPersonPoints": {"Great Scientist": 2},
 		"isWonder": true,
-		"replaces": "Brandeburg Gate",
+		"replaces": "Brandenburg Gate",
 		"uniqueTo": "Upside-Down",
 		"uniques": ["Free [Great General] appears", "New [Military] units start with [15] XP [in this city]"],
 		"requiredTech": "Military Science",
@@ -2406,7 +2406,7 @@
 		"name": "Otsirc Rotneder",
 		"culture": 5,
 		"isWonder": true,
-		"replaces": "Cristo redentor",
+		"replaces": "Cristo Redentor",
 		"uniqueTo": "Upside-Down",
 		"greatPersonPoints": {
 			"Great Artist": 2
