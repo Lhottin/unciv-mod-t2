@@ -1967,21 +1967,6 @@
 		"requiredTech": "Engineering"
 	}, 
 	{
-		"name": "Ancient Palace",
-		"isNationalWonder": true,
-		"production": 100,
-		"science": 100,
-		"gold": 100,
-		"culture": 100,
-		"cityStrength": 50,
-		"requiredTech": "Wonder Tech",
-		"cost": 100000,
-		"uniques": [
-			"Indicates the capital city",
-			"New [Military] units start with [1500] XP [in this city]"]
-	},
-	[
-	{
 		"name": "Elpmet fo Simetra",
 		"culture": 1,
 		"isWonder": true,
@@ -1993,7 +1978,6 @@
 		"requiredTech": "Archery",
 		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
 	},
-	// Column 2
 	{
 		"name": "Egnehenots",
 		"faith": 5,
@@ -2016,12 +2000,13 @@
 		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
 		"quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
 	},
-
 	{
-		"name": "The Pyramids",
+		"name": "Eht Sdimaryp",
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"isWonder": true,
+		"replaces": "The Pyramids",
+		"uniqueTo": "Upside-Down",
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
 		"requiredTech": "Masonry",
 		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
@@ -2047,7 +2032,6 @@
 		"uniques": ["[+15]% Strength <for [All] units> <vs cities> <when attacking>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
-		// "Requires [Honor]" in BNW
 	},
 	{
 		"name": "Eht Taerg Esuohthgil",
@@ -2389,25 +2373,6 @@
 		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
 	},
 	{
-		"name": "Hubble Space Telescope",
-		"isWonder": true,
-		"greatPersonPoints": {"Great Scientist": 1},
-		"uniques": ["[2] free [Great Scientist] units appear",
-			"[+25]% Production when constructing [Spaceship part] units [in this city]",
-			"Gain a free [Spaceship Factory] [in this city]"],
-		"requiredTech": "Satellites",
-		"quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
-	},
-	{
-		"name": "United Nations",
-		"isWonder": true,
-		"culture": 1,
-		"greatPersonPoints": {"Great Merchant": 2},
-		"requiredTech": "Globalization",
-		"uniques": ["Triggers voting for the Diplomatic Victory", "Only available <when [Diplomatic] Victory is enabled>", "Triggers a global alert upon completion"],
-		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
-	},
-	{
 		"name": "Nattahnam Tcejorp",
 		"isWonder": true,
 		"replaces": "Manhattan Project",
@@ -2582,6 +2547,4 @@
 		],
 		"quote": "'If I could teleport, I'd probably still be late.' - Anonymous"
 	}
-]
-
 ]
