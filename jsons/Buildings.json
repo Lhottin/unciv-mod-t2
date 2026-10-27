@@ -2381,7 +2381,7 @@
 	{
 		"name": "NC Rewot",
 		"isWonder": true,
-		"replaces": "CN Tower,
+		"replaces": "CN Tower",
 		"uniqueTo": "Upside-Down",
 		"greatPersonPoints": {"Great Merchant": 1},
 		"uniques": ["[+1] population [in all cities]", "[+1 Happiness] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
